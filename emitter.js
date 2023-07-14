@@ -1,3 +1,4 @@
+//Author: Istam Rustamov
 const EventEmitter = require('events')
 
 class Emitter extends EventEmitter {}
